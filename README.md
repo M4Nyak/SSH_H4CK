@@ -1,5 +1,6 @@
 # SSH_H4CK
 coded by mrx();
+coded by Fkozdev
 
 
-MRX();#3621   says:  K4RT4LL4R YÜKSEKTEN UÇ4R !!
+thanks for help, Fkozdev
