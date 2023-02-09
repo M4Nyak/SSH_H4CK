@@ -1,4 +1,4 @@
-print("coded by M4Nyak respect to mrx();")
+print("coded by M4Nyak")
 
 
 import paramiko
